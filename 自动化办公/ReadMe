@@ -1,0 +1,10 @@
+python处理excel文件主要是第三方模块库xlrd、xlwt、xluntils，也可以使用openpyxl。
+
+使用xlrd读取文件；使用xlwt生成Excel文件；
+而xlwt生成excel文件是不能在已有的excel文件基础上进行修改的，如需要修改文件就要使用xluntils模块。
+openpyxl模块是一个读写Excel 2010文档的Python库.
+
+
+参考资料：
+https://blog.csdn.net/u010132497/article/details/85037189
+https://blog.csdn.net/tree_java/article/details/70832276
